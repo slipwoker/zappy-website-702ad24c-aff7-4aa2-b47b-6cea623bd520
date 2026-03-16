@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+חוסכים לכם זמן יקר בביורוקרטיה! שירותי הבאת מסמכים ממשרדי ממשלה ורשויות ישראליות ישירות אליכם. פתרון מהיר ויעיל לעורכי דין, עסקים ואזרחים.
+
+### תהליך
+https://example.com/process
+גלו איך אנחנו מביאים את המסמכים הרשמיים שלכם מהרשויות תוך ימים ספורים. תהליך שקוף ומקצועי שחוסך לכם ביקורים מיותרים במשרדי הממשלה ושעות המתנה.
+
+### סיפורי הצלחה
+https://example.com/success-stories
+קראו איך עזרנו למאות לקוחות לקבל מסמכים חיוניים מרשויות המדינה במהירות שיא. המלצות אמיתיות מעורכי דין, עסקים ואזרחים שחסכו זמן וכסף עם השירות שלנו.
+
+### צור קשר
+https://example.com/contact
+מוכנים לחסוך זמן ומאמץ? צרו איתנו קשר היום ונדאג להביא את כל המסמכים הרשמיים מהרשויות במקומכם. שירות אישי, מהיר ואמין לכל סוגי המסמכים הממשלתיים.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Docs Bridge
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Docs Bridge
+
+### Category
+https://example.com/category/:slug
+מוצרים - Docs Bridge
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
